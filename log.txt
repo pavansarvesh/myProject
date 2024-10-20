@@ -1,0 +1,20 @@
+Timestamp: 20241020_222003
+| Brand | Product | Quantity |
+|---|---|---|
+| Parachute | Ayurvedic Coconut Hair Oil | 1 | 
+
+Timestamp: 20241020_222018
+| Brand | Product | Quantity |
+|---|---|---|
+| Arduino | UNO | 1 | 
+Number of items available: 1
+Timestamp: 20241020_222030
+| Brand Name | Product Name | Quantity |
+|---|---|---|
+|  | Apple | 1 | 
+Number of items available: 1
+Timestamp: 20241020_222042
+| Brand Name | Product Name | Quantity |
+|---|---|---|
+|  | Apple | 2 | 
+
