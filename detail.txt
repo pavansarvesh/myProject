@@ -1,0 +1,12 @@
+Based on the provided text, here's a table extracting the requested information:
+
+| Feature | Details |
+|---|---|
+| **Product Name** | Lay's Classic Salted |
+| **Flavor** | Salted |
+| **Use Case** | Snacking, Potato Chips |
+| **MRP** | Rs. 20/- (Incl. of all taxes) |
+| **Expiry Date** |  Not available |
+| **Ingredients** | Potato, Edible Vegetable Oil (Palmolein Oil), Iodised Salt |
+
+
